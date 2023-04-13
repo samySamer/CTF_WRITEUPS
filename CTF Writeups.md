@@ -37,9 +37,8 @@
 # Morse CODE :
 - it was simple we downloaded the file 
 - and we used an a morse code website to decrypt it called : https://morsecode.world/international/decoder/audio-decoder-adaptive.html
-- it gave us this A T T T T T T T T T T TI A G I S I A M S P E A K I N G L O U D E R T H A N B E F O R E 
-- so we took from I AM SPEAKING LOUDERTHANBEFORE 
-- and it was the flag.
+- it gave us a string. 
+- and it had the flag.
 
 # Ceaser Cipher:
 - the Text it gave us contained EBG13 So we thought it was a ROT13 
